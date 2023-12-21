@@ -34,7 +34,7 @@ To run the game, ensure you have Python 3 installed along with the pygame librar
 
 ```bash
 python main.py
-```
+
 
 ## Acknowledgments
 
